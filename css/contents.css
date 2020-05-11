@@ -468,7 +468,7 @@
 	user-select: none;
 	-webkit-appearance: none;
 	transition: background 0.2s ease, color 0.1s ease;
-	behavior: url("../css/PIE.htc");
+	behavior: url(PIE.htc);
 	/* height:35px; */
 }
 .btn:hover, .btn:focus, .btn.focus {

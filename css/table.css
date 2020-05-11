@@ -66,6 +66,7 @@
 	border-bottom-left-radius: 7px;
 	border-top-left-radius: 7px;
 	padding-left: 5px;
+		behavior: url(./css/PIE.htc);
 }
 .tab-table td:last-child a {
 	border-bottom-right-radius: 7px;

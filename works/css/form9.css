@@ -1,0 +1,23 @@
+
+select.form-control, .select, .table-wrap .limit-view select:hover, .table-wrap .limit-view select:focus, .table-wrap .limit-view select:active {
+	display: inline-block;
+	padding: 4px 10px 3px 13px;
+	vertical-align: middle;
+	min-width: 20px;
+	min-height: 20px;
+	background-repeat: no-repeat;
+	background-size: 20px 20px;
+	background-position:center right 4px;
+	background-color: #f8fafb;
+	background-image :none !important;
+	border-radius: 4px;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.07);
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+
+}
+
+.input-group .form-control {
+ padding-bottom:5px;
+}
